@@ -1,0 +1,23 @@
+Samsung Galaxy Tab / Galaxy Tab 7.0#2010#Android#7#1024x600 TFT#1 GHz Samsung Exynos 3110#PowerVR SGX540#512 MB#16/32 GB~
+Samsung Galaxy Tab 10.1#2011#Android#10.1#1280x800 PLS#1 GHz dual-core Nvidia Tegra 2#None#1 GB#16/32/64 G~
+Samsung Galaxy Tab 10.1N#2011#Android#10.1#1280x800 PLS#null#null#1 GB#16/32/64 GB~
+Samsung Galaxy Tab 10.1v#2011#Android#10.1#1280x800 TFT#1 GHz dual-core Nvidia Tegra 2#null#1 GB#16/32 GB~
+Samsung Galaxy Tab 8.9#2011#Android#8.9#1280x800 TFT#1 GHz dual-core Nvidia Tegra 2#null#1 GB#16/32 GB~
+Samsung Galaxy Tab 7.0#2011#Android#7#1024x600 PLS#1.2 GHz Samsung Exynos 4210#null#1 GB#16/32 GB~
+Samsung Galaxy Tab 7.7#2012#Android#7.7#1280x800 Super AMOLED Plus#1.4 GHz dual-core Samsung Exynos 4210#null#1 GB#16/32/64 GB~
+Samsung Galaxy Tab 2 7.0#2012#Android#7#1024x600 PLS#1 GHz dual-core Texas Instruments OMAP4430#PowerVR SGX540#1 GB#8/16/32 GB~
+Samsung Galaxy Tab 2 10.1#2012#Android#10.1#1280x800 PLS#1 GHz dual-core Texas Instruments OMAP4430#PowerVR SGX540#1 GB#16/32 GB~
+Samsung Galaxy Tab 3 7.0#2013#Android#7#1024x600 TFT#1.2 GHz dual-core PXA986#null#1 GB#8/16 GB~
+Samsung Galaxy Tab 3 8.0#2013#Android#8#1280x800 TFT#1.5 GHz dual-core Samsung Exynos 4212#Mali-400MP#1.5 GB#16/32 GB~
+Samsung Galaxy Tab 3 10.1#2013#Android#10.1#1280x800 TFT#1.6 GHz dual-core Intel Atom Z2560#PowerVR SGX544MP2#1 GB#16/32 GB~
+Samsung Galaxy Tab 4 7.0#2014#Android#7#1280x800 TFT#1.2 GHz 4-core Cortex-A7#GC1000#1.5 GB#8/16 GB~
+Samsung Galaxy Tab 4 8.0#2014#Android#8#1280x800 TFT#1.2 GHz 4-core Cortex-A7#Adreno 305#1.5 GB#16/32 GB~
+Samsung Galaxy Tab Pro 10.1#2014#Android#10.1#2560x1600 Super Clear LCD#1.9 GHz 4-core A15 & 1.3 GHz 4-core A7 /, Qualcomm Snapdragon 800 2.3 GHz Quadcore#null#2 GB#16/32 GB~
+Samsung Galaxy Tab Pro 12.2#2014#Android#12.2#2560 x 1600 Super Clear LCD#Octa-core (4x1.9 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7) /, Exynos 5420 Octa (28 nm)#Mali-T628 MP6#3 GB#32/64 GB~
+Samsung Galaxy Tab S 8.4#2014#Android#8.4#2560 x 1600 Super Amoled#1.9 GHz 4-core A15 & 1.3 GHz 4-core A7 /, Qualcomm Snapdragon 800 2.3 GHz Quadcore#Mali-T628#3 GB#16/32 GB~
+Samsung Galaxy Tab S 10.5#2014#Android#10.5#2560 x 1600 Super Amoled#1.9 GHz 4-core A15 & 1.3 GHz 4-core A7 /, Qualcomm Snapdragon 800 2.3 GHz Quadcore#Mali-T628#3 GB#16/32 GB~
+Samsung Galaxy Tab S3 9.7#2017#Android#9.7#2048 x 1536 Super AMOLED#Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo) /, Qualcomm MSM8996 Snapdragon 820 (14 nm)#Adreno 530#4 GB#32 GB~
+Samsung Galaxy Note 8.0#2013#Android#8.0#1280 x 800 TFT#Quad-core 1.6 GHz Cortex-A9 /, Exynos 4412 Quad (32 nm)#Mali-400MP4#2 GB#16/32 GB~
+Samsung Galaxy Note 10.1#2012#Android#10.1#1280 X 800 PLS#Quad-core 1.4 GHz Cortex-A9 /, Exynos 4412 Quad (32 nm)#Mali-400MP4#2 GB#16/32/64 GB~
+Samsung Galaxy Note Pro 12.2#2014#Android#12.2#2560 x 1600 Super Clear LCD#Octa-core (4x1.9 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7) /, Exynos 5420 Octa (28 nm)#Mali-T628 MP6#3 GB#32/64 GB~
+
